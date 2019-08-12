@@ -44,6 +44,7 @@ namespace Bookingtek.Console
                 {
                     System.Console.WriteLine(ex.ToString());
                 }
+
             }
         }
     }
